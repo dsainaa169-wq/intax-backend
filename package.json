@@ -1,0 +1,16 @@
+{
+  "name": "intax-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "mongoose": "^9.0.0",
+    "pdfkit": "^0.17.2"
+  }
+}
